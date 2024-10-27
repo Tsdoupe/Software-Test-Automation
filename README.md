@@ -1,1 +1,3 @@
 # Software-Test-Automation
+
+Following this class, I have leared a great deal regarding test automation, the value it serves to aproject and how to design these types of tests. When designing, it is imperative that I make sure my code, program or software is both functional and secure. In order to ensure my code is functional, I learned I can implement unit tests that will be able to test each method I am working to add to my program. This allows me to test individual components before they are applied to the whole software and detect any functionality issues before the entire system is built. I also try to implement inducstry best practices with my coding to try to maintain security with my code. I implemented input validation with my code to also assist with this. 
